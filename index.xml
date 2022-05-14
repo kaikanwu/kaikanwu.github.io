@@ -16,5 +16,14 @@
       <description>Hi, I am Kaikan Wu. I write about programming.</description>
     </item>
     
+    <item>
+      <title>My New Post</title>
+      <link>http://kaikanwu.github.io/blog/my-new-post/</link>
+      <pubDate>Sat, 14 May 2022 14:48:52 +0800</pubDate>
+      
+      <guid>http://kaikanwu.github.io/blog/my-new-post/</guid>
+      <description>test</description>
+    </item>
+    
   </channel>
 </rss>
